@@ -22,7 +22,7 @@
 <p><b>Product Category Page:</b> Products created dynamically with filter by category, name, price and discount.</p>
 <p><b>Product full Details:</b> Each product's details is visible by clicking the product.</p>
 <p>
-    <p>Payment Page:</p> Users can add their payment details, address and can create their account.
+    <b>Payment Page:</b> Users can add their payment details, address and can create their account.
 </p>
 <h1>Tech Stack</h1>
 <h3>HTML</h3>
